@@ -1,0 +1,14 @@
+var a= 19;
+let x= 10;
+const pi= 3.14;
+let string= "Hello World";
+let number= 42;
+let boolean= true;
+let array= [1, 2, 3, 4, 5];
+let object= {name: "John", age: 30, city: "New York"};
+let nullValue= null;
+let undefinedValue= undefined;
+let symbolValue= Symbol("unique");
+let bigIntValue= 1234567890123456789012345678901234567890n;
+let functionValue= function() { return "I am a function"; };
+let dateValue= new Date();
