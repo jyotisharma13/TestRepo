@@ -7,6 +7,7 @@ This repository contains JavaScript learning examples organized by chapter and t
 - `05_chapter_operators/21_String_Op.js` — string operations, concatenation, length, character access, and `console.log` behavior.
 - `05_chapter_operators/22_Ternary_Op.js` — ternary operator example that checks if a numeric `age` value is considered adult.
 - `05_chapter_operators/23_IQ.js` — demonstrates strict equality (`===`) vs. loose equality (`==`) operators with status code type checking.
+- `05_chapter_operators/24_IQ.js` — ternary operator with environment-based URL selection (production vs. staging).
 
 ## Other Operator Examples
 
