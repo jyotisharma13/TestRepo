@@ -13,3 +13,5 @@ JavaScript operator examples covering:
 - **24_IQ.js** - IQ: `==` vs `===` comparison
 - **25_IQ.js** - IQ: Ternary with CI/CD browser mode
 - **26_IQ.js** - IQ: Ternary with SLA response time check
+- **27_IQ.js** - IQ: Basic ternary condition check
+- **28_Nested_Ternary.js** - Nested ternary: adult & drinking age check
