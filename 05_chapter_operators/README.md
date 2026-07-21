@@ -18,3 +18,4 @@ JavaScript operator examples covering:
 - **29_IQ_Nested_Ternary.js** - IQ: Nested ternary for HTTP status codes
 - **30_NT_IQ.js** - IQ: Nested ternary for temperature feel
 - **31_Type_Op.js** - `typeof` operator on various data types
+- **32_In_De_Op.js** - Increment (`++`) and decrement (`--`) operators

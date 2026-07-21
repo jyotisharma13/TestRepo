@@ -1,0 +1,13 @@
+let a = 10;
+let b = 0;
+let c = 5;
+let d = 9;
+//a = a+1;
+//a++;
+console.log("a++",a++);
+//++a;
+console.log(a);
+console.log("++a",++a);
+console.log("b++,b",b++,b);
+console.log("--c",--c);
+console.log("d--,d",d--,d);
