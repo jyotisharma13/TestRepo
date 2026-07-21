@@ -24,3 +24,4 @@ JavaScript operator examples covering:
 - **35_Dcrement_Op.js** - Decrement operators: `--a` vs `a--`
 - **36_Null_coalescing.js** - Nullish coalescing operator (`??`)
 - **37_Statement.js** - If-else conditional statements
+- **38_Multiple_condition.js** - Multiple conditions: grade scoring with `&&`
