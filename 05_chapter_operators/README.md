@@ -21,3 +21,5 @@ JavaScript operator examples covering:
 - **32_In_De_Op.js** - Increment (`++`) and decrement (`--`) operators
 - **33_Ad_Incre.js** - Advanced increment: `a++ + a`
 - **34_Incre_Part2.js** - Increment chaining: `i++ + ++i + i++ + ++i`
+- **35_Dcrement_Op.js** - Decrement operators: `--a` vs `a--`
+- **36_Null_coalescing.js** - Nullish coalescing operator (`??`)
