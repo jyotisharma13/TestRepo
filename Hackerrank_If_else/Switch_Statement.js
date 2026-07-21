@@ -33,5 +33,7 @@ switch(num){
      case 9:
     console.log("NINE");
     break;
+    default:
+    console.log("PLEASE TRY AGAIN");
 }
 }
