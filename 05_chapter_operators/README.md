@@ -19,3 +19,5 @@ JavaScript operator examples covering:
 - **30_NT_IQ.js** - IQ: Nested ternary for temperature feel
 - **31_Type_Op.js** - `typeof` operator on various data types
 - **32_In_De_Op.js** - Increment (`++`) and decrement (`--`) operators
+- **33_Ad_Incre.js** - Advanced increment: `a++ + a`
+- **34_Incre_Part2.js** - Increment chaining: `i++ + ++i + i++ + ++i`
