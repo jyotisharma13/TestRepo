@@ -17,3 +17,4 @@ JavaScript operator examples covering:
 - **28_Nested_Ternary.js** - Nested ternary: adult & drinking age check
 - **29_IQ_Nested_Ternary.js** - IQ: Nested ternary for HTTP status codes
 - **30_NT_IQ.js** - IQ: Nested ternary for temperature feel
+- **31_Type_Op.js** - `typeof` operator on various data types
