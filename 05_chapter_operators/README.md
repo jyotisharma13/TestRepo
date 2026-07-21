@@ -15,3 +15,4 @@ JavaScript operator examples covering:
 - **26_IQ.js** - IQ: Ternary with SLA response time check
 - **27_IQ.js** - IQ: Basic ternary condition check
 - **28_Nested_Ternary.js** - Nested ternary: adult & drinking age check
+- **29_IQ_Nested_Ternary.js** - IQ: Nested ternary for HTTP status codes
