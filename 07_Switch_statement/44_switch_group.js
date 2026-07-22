@@ -1,4 +1,4 @@
-let browser = "Firefox ";
+let browser = "Firefox";
 switch(browser){
     case "Chrome":
     case "Edge":
