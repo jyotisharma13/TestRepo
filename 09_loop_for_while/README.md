@@ -1,0 +1,5 @@
+# Chapter 09 - Loops (for / while)
+
+JavaScript loop examples:
+
+- **46_forLoop.js** - Age-based gift eligibility using for loop with if-else
