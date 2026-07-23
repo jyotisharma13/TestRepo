@@ -7,3 +7,4 @@ JavaScript switch statement examples:
 - **42_IQ.JS** - IQ: Day of the week with invalid day check
 - **43_REAL_API_TESTING.js** - HTTP status codes using switch
 - **44_switch_group.js** - Browser detection with grouped cases
+- **45_task_23July.js** - Loop behavior quirks: semicolon-terminated for, NaN while, do-while post-decrement
